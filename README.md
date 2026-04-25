@@ -26,3 +26,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- certificate
+-->
+Oracle Cloud Infrastructure Foundations Associate
+[view certificate](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fcatalog-education%2Eoracle%2Ecom%2Fpls%2Fcertview%2Fsharebadge%3Fid%3D52CCDCB5C5B115009C479CBCFE7AECAC2F2B16489CC6B26B62985FB91A6B2BD2&urlhash=9hSP&mt=YmbEODY6Cm5y666xrW2UD9peZgJJPds18t8rSFUEQym6wLg7433WeeMfUriCWwO0okfMEZUKpcpw6t0zbxOKotcDawRKGv5ld5o4a70Ol-AB2cANy3MoIPnsikY&isSdui=true)
+
